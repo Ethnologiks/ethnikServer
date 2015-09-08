@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class AddressesControllerTest < ActionController::TestCase
+class PlaceInfoTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

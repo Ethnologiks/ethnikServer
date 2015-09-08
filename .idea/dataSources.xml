@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="445883377">
+  <component name="DataSourceManagerImpl" format="xml" hash="3420356741">
     <data-source source="LOCAL" name="Rails ethnikServer: development" uuid="1e06b94e-8572-4771-ae40-6a21505c0403">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
@@ -9,4 +9,3 @@
     </data-source>
   </component>
 </project>
-

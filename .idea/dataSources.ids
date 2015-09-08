@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="Rails ethnikServer: development" uuid="1e06b94e-8572-4771-ae40-6a21505c0403">
+  <data-source name="Rails ethnikServer: development" uuid="1e06b94e-8572-4771-ae40-6a21505c0403">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>

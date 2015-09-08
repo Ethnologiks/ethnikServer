@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+ places = PlaceInfo.create([{placeID: '12345'}, {placeID: '67890'}])
+
+Barbershop.create(name: 'MainBarber', place_info_id: places.first.id)
