@@ -40,7 +40,7 @@ ActiveRecord::Schema.define(version: 20150814165213) do
 
   create_table "place_infos", force: true do |t|
     t.string   "placeID"
-    t.string   "type"
+    t.string   "the_type"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
